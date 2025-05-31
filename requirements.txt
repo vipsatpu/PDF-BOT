@@ -1,0 +1,12 @@
+python-dotenv
+llama-index
+pypdf
+openai
+streamlit
+PyPDF2
+langchain
+langchain_community
+datasets
+astrapy
+cassio
+numpy
